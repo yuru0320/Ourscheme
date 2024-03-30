@@ -1,8 +1,6 @@
 # Ourscheme
 2021 spring PL project (OurScheme) - Project 1
 
-Due : 6/27(日) midnight (23:59)
-
   // You are to implement something like the following
                  
   // 'expr' is a pointer that points to a linked list data structure;
